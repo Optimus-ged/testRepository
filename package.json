@@ -1,0 +1,16 @@
+{
+  "name": "exemplenode1",
+  "version": "1.0.0",
+  "description": "exemple exercice node 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "io": "nodemon app.js"
+  },
+  "author": "optimus",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
